@@ -1,0 +1,17 @@
+{
+    "config":
+        {
+            "name": "Academia 1",
+            "black_page_title": true,
+            "primary_color": "#FFC107",
+            "secondary_color": "#009688",
+            "text_color": "#000000",
+            "background_color": "#AAAFFF",
+            "list_type": "simple",
+            "show_exercise_photo": true,
+            "logo_color": "#FFFFFF",
+            "heading_text_font": "Roboto",
+            "body_text_font": "Roboto"
+        }
+    
+}
